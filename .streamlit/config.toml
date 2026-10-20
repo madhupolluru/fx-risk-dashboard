@@ -1,0 +1,31 @@
+# Kept deliberately quiet: white and grey surfaces, one steel blue accent, and a jade /
+# coral pair that only ever means gain / loss. Strategy colours avoid green and red so
+# they can't be mistaken for P&L.
+
+[theme]
+base = "light"
+primaryColor = "#3d6db3"
+backgroundColor = "#f6f7f9"
+secondaryBackgroundColor = "#eceff4"
+textColor = "#1c2433"
+linkColor = "#3d6db3"
+borderColor = "#dde2ea"
+dataframeBorderColor = "#e4e8ee"
+dataframeHeaderBackgroundColor = "#f1f3f7"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "0.5rem"
+baseFontSize = 14
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+redColor = "#d4604f"
+greenColor = "#2b9a73"
+blueColor = "#3d6db3"
+orangeColor = "#e07b39"
+chartCategoricalColors = ["#3d6db3", "#e07b39", "#7a5cc0", "#d9a21b", "#1898b8"]
+
+[theme.sidebar]
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f1f3f7"
+
+[server]
+headless = true
