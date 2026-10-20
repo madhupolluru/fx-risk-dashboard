@@ -3,7 +3,7 @@
 A Streamlit dashboard for an FX portfolio manager to keep an eye on P&L and risk for a
 book of FX spot trades.
 
-Live dashboard: <add Streamlit Cloud URL>
+Live dashboard: https://madhupolluru-fx-risk-dashboard.streamlit.app
 
 ## Running it
 
